@@ -1,2 +1,2 @@
 # Acciojob-Portal-Contests
-All solved questions from the Acciojob's Portal
+All solved questions of contests from the Acciojob's Portal
